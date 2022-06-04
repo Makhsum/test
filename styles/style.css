@@ -1,0 +1,137 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto&display=swap");
+.gluby {
+  max-width: 282px;
+  margin: 0 46px;
+  height: 812px;
+}
+
+.gluby .gluby__header .gluby_img {
+  margin: 70px 54px 54px 82px;
+}
+
+.gluby .gluby_tittle .gluby__text {
+  text-align: center;
+  font-size: 38px;
+  font-weight: bold;
+}
+
+.gluby .gluby__main {
+  margin-top: 46px;
+}
+
+.gluby input {
+  height: 43px;
+  width: 279px;
+  border: #4285F4 1px solid;
+  padding-left: 10px;
+  border-radius: 10px;
+}
+
+.gluby .gluby__email {
+  margin-bottom: 43px;
+}
+
+.gluby .main__text {
+  width: 262px;
+  height: 40px;
+  margin-left: 6px;
+  font-size: 13px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  margin-top: 5px;
+}
+
+.gluby #text {
+  color: #4285F4;
+  letter-spacing: 1px;
+  font-size: 14px;
+}
+
+.gluby #text1 {
+  margin-left: 18px;
+  font-size: 13px;
+  color: #4285F4;
+}
+
+#submit {
+  width: 218px;
+  height: 55px;
+  background: #4285F4;
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: 2px;
+  line-height: 55px;
+  color: #fff;
+  margin: 132px 0 0 30px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+*, *::before, *::after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+:focus, :active {
+  outline: none;
+}
+
+a:focus, a:active {
+  outline: none;
+}
+
+nav, footer, header, aside {
+  display: block;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-size: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+input, button, textarea {
+  font-family: inherit;
+}
+
+input::-ms-clear {
+  display: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+button::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+a, a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+ul li {
+  list-style: none;
+}
+
+img {
+  vertical-align: top;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: inherit;
+  font-weight: 400;
+}
